@@ -53,4 +53,11 @@ public class CustomList extends ArrayAdapter<City> {
         cities.add(city);
     }
 
+    public boolean hasCity(City city){
+    }
+
+    public void deleteCity(City city){}
+
+    public int countCities(){}
+
 }
